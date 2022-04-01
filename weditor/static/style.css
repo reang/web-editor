@@ -58,11 +58,11 @@ body {
   /*height: 100%;*/
   display: flex;
   flex-direction: column;
-  width: 500px;
+  width: 350px;
 }
 
 div.middle {
-  width: 400px;
+  width: 350px;
   overflow-y: auto;
   display: flex;
 }
